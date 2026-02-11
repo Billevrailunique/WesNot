@@ -1,0 +1,9 @@
+.vscode/
+*.class
+.gradle/
+bin/
+out/
+.idea/
+/.settings/
+/.project
+/.classpath

@@ -1,0 +1,13 @@
+1#Ariana#Bienvenue dans WesNot ! un projet développé par Ilyes El Mouhtadi, Selim Khattab, Marceau Lena Schroll, Louis Rialland et Vincent Schoonheere.
+1#Tharyn#Mais comment jouons nous à WesNot ?
+1#Ariana#Eh bien c'est très simple. Vous voici le leader au centre du donjon. D'ici vous pouvez recruter des troupes à lancer au combat mais attention si VOUS mourez, game over ! 
+1#Tharyn#Fabuleux ! Mais comment se battre ?
+1#Ariana#Encore une fois, c'est simple. En cliquant sur votre personnage vous avez accès à ses actions à droite. 
+1#Ariana#Pour bouger vous appuyer sur le bouton MOVE puis vous cliquez à l'endroit où vous voulez vous rendre. 
+1#Tharyn#Très bien, mais où pouvons nous aller ?
+1#Ariana#Des donjons, des cavernes, d'autres cartes si vous vous tenez sur le bord de la map. Que de perspectives !
+1#Tharyn#Ouaiiiis !!! J'adore les donjons, ils sont sûrement fantastiques. 
+1#Ariana#Et si vous vous avez le malheur de tomber sur des ennemis, pour attaquer il suffit d'appuyer sur le bouton ATTAQUER puis sur la cible de l'attaque. 
+1#Tharyn#Mais quel jeu incroyable ! C'est parti pour l'aventure ! 
+2#Ariana#Vous en mettez du temps.
+2#Tharyn#Je dis ça, je dis rien.

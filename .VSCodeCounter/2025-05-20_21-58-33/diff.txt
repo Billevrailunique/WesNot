@@ -1,0 +1,64 @@
+Date : 2025-05-20 21:58:33
+Directory : c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i
+Total : 34 files,  1329 codes, 452 comments, 204 blanks, all 1985 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Java     |         34 |      1,329 |        452 |        204 |      1,985 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                  | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                     |         34 |      1,329 |        452 |        204 |      1,985 |
+| src                                                                                                                   |         34 |      1,329 |        452 |        204 |      1,985 |
+| src\controller                                                                                                        |          5 |         55 |         68 |         -2 |        121 |
+| src\model                                                                                                             |         11 |        517 |        158 |         74 |        749 |
+| src\test                                                                                                              |          4 |        157 |         17 |         30 |        204 |
+| src\util                                                                                                              |          9 |        288 |        134 |         51 |        473 |
+| src\view                                                                                                              |          5 |        312 |         75 |         51 |        438 |
++-----------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                                              | language | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\controller\DialogManager.java      | Java     |          2 |          0 |          0 |          2 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\controller\GameController.java     | Java     |         51 |         22 |          2 |         75 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\controller\MainMenuController.java | Java     |          0 |          0 |         -1 |         -1 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\controller\MapController.java      | Java     |          2 |         -7 |         -2 |         -7 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\controller\SettingsController.java | Java     |          0 |         53 |         -1 |         52 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\model\AutomatedPlayer.java         | Java     |         69 |        -30 |         -1 |         38 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\model\Caverne.java                 | Java     |        189 |          0 |         32 |        221 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\model\Chunk.java                   | Java     |         28 |         10 |          5 |         43 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\model\Dungeon.java                 | Java     |        -44 |          8 |          0 |        -36 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\model\GameModel.java               | Java     |          1 |          3 |          0 |          4 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\model\MapModel.java                | Java     |        145 |         17 |         12 |        174 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\model\PlayerModel.java             | Java     |         20 |          8 |          7 |         35 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\model\Settings.java                | Java     |         27 |        114 |         10 |        151 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\model\Surface.java                 | Java     |         22 |         21 |          2 |         45 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\model\TileModel.java               | Java     |         14 |          5 |          2 |         21 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\model\Troop.java                   | Java     |         46 |          2 |          5 |         53 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\test\CaverneTest.java              | Java     |         90 |          3 |         14 |        107 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\test\HexCellTest.java              | Java     |         -2 |          1 |          0 |         -1 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\test\PathFinderTest.java           | Java     |         12 |         11 |          7 |         30 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\test\PriorityQueueTest.java        | Java     |         57 |          2 |          9 |         68 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\util\Graph.java                    | Java     |         77 |          0 |         17 |         94 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\util\HexCell.java                  | Java     |          6 |          5 |          2 |         13 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\util\Pair.java                     | Java     |          6 |          5 |          2 |         13 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\util\PathFinder.java               | Java     |        181 |         69 |         21 |        271 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\util\Pathfinder.java               | Java     |       -172 |         -7 |        -23 |       -202 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\util\PriorityQueue.java            | Java     |         57 |         26 |          9 |         92 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\util\PriorityQueueMinHeap.java     | Java     |        101 |         32 |         15 |        148 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\util\Saveable.java                 | Java     |          1 |          0 |          0 |          1 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\util\UnionFind.java                | Java     |         31 |          4 |          8 |         43 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\view\GUI.java                      | Java     |          1 |          0 |          0 |          1 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\view\GameView.java                 | Java     |        239 |         15 |         37 |        291 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\view\MainMenuView.java             | Java     |         -1 |          0 |         -1 |         -2 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\view\MapView.java                  | Java     |          4 |          2 |         -1 |          5 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\view\SettingsView.java             | Java     |         69 |         58 |         16 |        143 |
+| Total                                                                                                                 |          |      1,329 |        452 |        204 |      1,985 |
++-----------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+

@@ -1,0 +1,45 @@
+Date : 2025-05-08 02:19:34
+Directory : c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i
+Total : 16 files,  327 codes, 470 comments, 87 blanks, all 884 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Java     |         16 |        327 |        470 |         87 |        884 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                  | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                     |         16 |        327 |        470 |         87 |        884 |
+| src                                                                                                                   |         16 |        327 |        470 |         87 |        884 |
+| src\controller                                                                                                        |          3 |         76 |          2 |         15 |         93 |
+| src\model                                                                                                             |          3 |         19 |        154 |         24 |        197 |
+| src\util                                                                                                              |          5 |         24 |        236 |         13 |        273 |
+| src\view                                                                                                              |          5 |        208 |         78 |         35 |        321 |
++-----------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                                              | language | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\controller\DialogManager.java      | Java     |          1 |          0 |          0 |          1 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\controller\MainMenuController.java | Java     |         14 |          2 |          0 |         16 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\controller\SettingsController.java | Java     |         61 |          0 |         15 |         76 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\model\Settings.java                | Java     |         78 |          2 |         22 |        102 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\model\TileModel.java               | Java     |        -21 |         48 |         -1 |         26 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\model\Troop.java                   | Java     |        -38 |        104 |          3 |         69 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\util\Music.java                    | Java     |         28 |          3 |          7 |         38 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\util\Node.java                     | Java     |        -12 |         92 |          4 |         84 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\util\Pair.java                     | Java     |          8 |         69 |          1 |         78 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\util\Pathfinder.java               | Java     |          0 |          0 |         -1 |         -1 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\util\RandomTaskManager.java        | Java     |          0 |         72 |          2 |         74 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\view\DialogView.java               | Java     |         18 |         67 |         -2 |         83 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\view\GUI.java                      | Java     |         15 |          0 |          2 |         17 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\view\GameView.java                 | Java     |         18 |          5 |          7 |         30 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\view\MainMenuView.java             | Java     |          1 |          0 |         -1 |          0 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\view\SettingsView.java             | Java     |        156 |          6 |         29 |        191 |
+| Total                                                                                                                 |          |        327 |        470 |         87 |        884 |
++-----------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+

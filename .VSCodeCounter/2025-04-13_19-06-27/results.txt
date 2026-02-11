@@ -1,0 +1,61 @@
+Date : 2025-04-13 19:06:27
+Directory : c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i
+Total : 29 files,  2838 codes, 555 comments, 614 blanks, all 4007 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Java     |         28 |      2,779 |        555 |        579 |      3,913 |
+| Markdown |          1 |         59 |          0 |         35 |         94 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                  | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                     |         29 |      2,838 |        555 |        614 |      4,007 |
+| . (Files)                                                                                                             |          1 |         59 |          0 |         35 |         94 |
+| src                                                                                                                   |         28 |      2,779 |        555 |        579 |      3,913 |
+| src\controller                                                                                                        |          4 |        560 |         15 |         91 |        666 |
+| src\model                                                                                                             |          7 |        815 |        250 |        174 |      1,239 |
+| src\test                                                                                                              |          5 |        257 |          7 |         59 |        323 |
+| src\util                                                                                                              |          7 |        440 |        195 |         95 |        730 |
+| src\view                                                                                                              |          5 |        707 |         88 |        160 |        955 |
++-----------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                                              | language | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\README.md                              | Markdown |         59 |          0 |         35 |         94 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\controller\DialogManager.java      | Java     |        114 |          0 |         13 |        127 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\controller\GameController.java     | Java     |        321 |         12 |         42 |        375 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\controller\MainMenuController.java | Java     |         54 |          2 |         18 |         74 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\controller\MapController.java      | Java     |         71 |          1 |         18 |         90 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\model\Attack.java                  | Java     |         77 |          0 |         14 |         91 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\model\GameModel.java               | Java     |         70 |         32 |         23 |        125 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\model\MainMenuModel.java           | Java     |         23 |          0 |          9 |         32 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\model\MapModel.java                | Java     |        377 |        148 |         72 |        597 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\model\PlayerModel.java             | Java     |         32 |          2 |         12 |         46 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\model\TileModel.java               | Java     |         90 |         67 |         20 |        177 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\model\Troop.java                   | Java     |        146 |          1 |         24 |        171 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\test\DialoguTest.java              | Java     |         26 |          0 |          6 |         32 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\test\HexCellTest.java              | Java     |        177 |          7 |         38 |        222 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\test\MapViewTest.java              | Java     |          7 |          0 |          3 |         10 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\test\PathFinderTest.java           | Java     |         33 |          0 |          4 |         37 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\test\TimelineTest.java             | Java     |         14 |          0 |          8 |         22 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\util\HexCell.java                  | Java     |         87 |         73 |         26 |        186 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\util\Music.java                    | Java     |         45 |         28 |          7 |         80 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\util\OverlayPanel.java             | Java     |         47 |         33 |         15 |         95 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\util\Pair.java                     | Java     |         25 |          0 |          9 |         34 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\util\Pathfinder.java               | Java     |        170 |          7 |         23 |        200 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\util\Task.java                     | Java     |         28 |         46 |          9 |         83 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\util\Timeline.java                 | Java     |         38 |          8 |          6 |         52 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\view\DialogView.java               | Java     |        122 |          4 |         26 |        152 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\view\GUI.java                      | Java     |        119 |         30 |         36 |        185 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\view\GameView.java                 | Java     |        195 |          1 |         49 |        245 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\view\MainMenuView.java             | Java     |         26 |          2 |         11 |         39 |
+| c:\Users\marce\OneDrive\Documents\Cours\ProjetInfo\projet-informatique-mardi-i\src\view\MapView.java                  | Java     |        245 |         51 |         38 |        334 |
+| Total                                                                                                                 |          |      2,838 |        555 |        614 |      4,007 |
++-----------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+

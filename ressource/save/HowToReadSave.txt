@@ -1,0 +1,6 @@
+Round nb; Turn nb
+###
+Player1 info(name,gold,score,faction)#IA1 info#IA2 info
+###
+Map seed
+###
